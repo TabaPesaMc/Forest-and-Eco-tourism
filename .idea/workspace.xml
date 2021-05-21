@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eabd7950-5d8b-44ce-9f4e-c2484764d20a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sWWoPRlf3P7zwwdGvQPAg2kSJ6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Usambala_project/static" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TABAPESA\PycharmProjects\Usambala\Usambala_project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TABAPESA\PycharmProjects\Usambala\Usambala_project\static" />
+      <recent name="C:\Users\TABAPESA\PycharmProjects\Usambala\Usambala_project\template" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eabd7950-5d8b-44ce-9f4e-c2484764d20a" name="Default Changelist" comment="" />
+      <created>1620988999243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620988999243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="75" y="0" key="SettingsEditor" timestamp="1620999734930">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="75" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1620999734930" />
+    <state x="314" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1621060989871">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="314" y="168" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1621060989871" />
+  </component>
+</project>
